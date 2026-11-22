@@ -10,11 +10,21 @@ y, sobre todo, cómo protegerlos.
 aasierr@github:~$ ls intereses/
 ciberseguridad/  sistemas_operativos/  sistemas_distribuidos/  redes/
 
-aasierr@github:~$ ls lenguajes/
-c  java  python
+aasierr@github:~$ tree conocimientos/
+conocimientos/
+├── seguridad     configuración segura de Linux y Docker
+├── sistemas      procesos, hilos, señales y tuberías
+├── redes         sockets TCP, P2P y Java RMI
+├── ia            sistemas multiagente
+└── web           desarrollo de aplicaciones en equipo
 
-aasierr@github:~$ ls herramientas/
-git  linux
+aasierr@github:~$ ls lenguajes/ herramientas/
+lenguajes/:     c  java  python
+herramientas/:  git  linux
+
+aasierr@github:~$ cat ahora.txt
+Aprendiendo más sobre ciberseguridad, sobre todo la parte
+de sistemas y redes.
 
 aasierr@github:~$ _
 ```
